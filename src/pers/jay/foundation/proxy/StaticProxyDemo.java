@@ -1,4 +1,4 @@
-package proxy;
+package pers.jay.foundation.proxy;
 
 /**
  * 静态代理：代理类是在编译时就实现好的。也就是说 Java 编译完成后代理类是一个实际的 class 文件。

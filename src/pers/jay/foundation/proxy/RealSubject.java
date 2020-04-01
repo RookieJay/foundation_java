@@ -1,4 +1,4 @@
-package proxy;
+package pers.jay.foundation.proxy;
 
 /**
  * 目标对象

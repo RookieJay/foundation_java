@@ -1,8 +1,7 @@
-package proxy.practice;
+package pers.jay.foundation.proxy.practice;
 
 
 import java.lang.reflect.InvocationHandler;
-import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 
 /**

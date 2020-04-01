@@ -1,4 +1,4 @@
-package collection;
+package pers.jay.foundation.collection;
 
 import java.util.ArrayList;
 
@@ -18,5 +18,8 @@ public class ListDemo {
         list.add("222");
         list.add("333");
         list.remove(0);
+        System.out.println(list);
     }
+
+
 }

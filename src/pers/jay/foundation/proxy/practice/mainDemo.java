@@ -1,4 +1,4 @@
-package proxy.practice;
+package pers.jay.foundation.proxy.practice;
 
 import java.lang.reflect.Proxy;
 

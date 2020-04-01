@@ -1,4 +1,4 @@
-package proxy.practice;
+package pers.jay.foundation.proxy.practice;
 
 /**
  * 目标对象(委托者)：用户

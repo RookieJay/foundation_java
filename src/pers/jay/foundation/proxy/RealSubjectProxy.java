@@ -1,4 +1,4 @@
-package proxy;
+package pers.jay.foundation.proxy;
 
 /**
  * 代理对象
