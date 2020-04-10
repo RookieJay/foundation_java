@@ -10,5 +10,5 @@ import static java.lang.annotation.ElementType.*;
 @Target({METHOD, TYPE})
 public @interface FamilyName {
 
-    public String name() default "Zhou";
+    String name() default "Zhou";
 }
